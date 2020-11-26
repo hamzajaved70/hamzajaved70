@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ...
-       Serverless Frameworks: OpenFaas, Apache OpenWhisk, AWS Greengrass
+       Serverless Frameworks: OpenFaas, Apache OpenWhisk, AWS Greengrass running local Lambda Functions
 
 
 - 🌱 I’m currently learning ...
